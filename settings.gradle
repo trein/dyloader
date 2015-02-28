@@ -1,0 +1,8 @@
+rootProject.name = 'dynamic-jar-loader'
+
+include 'driver'
+
+include 'api'
+
+include 'loader'
+
